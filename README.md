@@ -1,3 +1,5 @@
+![MetaVoIP](./4f8a4ffc-0d3d-4df0-b1a6-0dde25bc7e51.png)
+
 # MetaVoIP
 
 ### Global VoIP & Telecommunications Infrastructure
