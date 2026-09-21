@@ -21,12 +21,19 @@ MetaVoIP provides telecommunications and VoIP technologies designed to help busi
 
 ## 🌐 About MetaVoIP
 
-MetaVoIP is a telecommunications technology platform focused on **VoIP infrastructure, call routing, voice connectivity and communication automation**.
+MetaVoIP is a global telecommunications technology platform built around **VoIP infrastructure, intelligent routing and business communication**.
 
-We help businesses connect their communication systems, manage voice traffic and build scalable solutions for customer communication and sales operations.
+We connect voice infrastructure, automation and integrations to help businesses manage communication at scale.
 
-Our technology combines reliable voice infrastructure with flexible routing, automation and integrations.
+### What we focus on
 
+- **Voice Infrastructure** — reliable and scalable VoIP connectivity
+- **Intelligent Routing** — flexible call routing and traffic management
+- **Automation** — streamlined communication workflows
+- **Integrations** — connecting telephony with business systems
+- **Analytics** — visibility into communication performance
+- **Global Connectivity** — infrastructure for international operations
+  
 ---
 
 ## ⚡ What We Build
