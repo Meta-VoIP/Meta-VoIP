@@ -1,5 +1,14 @@
 ![MetaVoIP](./4f8a4ffc-0d3d-4df0-b1a6-0dde25bc7e51.png)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/VoIP-00E5FF?style=for-the-badge&logoColor=white" alt="VoIP">
+  <img src="https://img.shields.io/badge/SIP-00E5FF?style=for-the-badge&logoColor=white" alt="SIP">
+  <img src="https://img.shields.io/badge/API-00E5FF?style=for-the-badge&logoColor=white" alt="API">
+  <img src="https://img.shields.io/badge/AI-00E5FF?style=for-the-badge&logoColor=white" alt="AI">
+  <img src="https://img.shields.io/badge/Call_Routing-00E5FF?style=for-the-badge&logoColor=white" alt="Call Routing">
+  <img src="https://img.shields.io/badge/Telecommunications-00E5FF?style=for-the-badge&logoColor=white" alt="Telecommunications">
+</p>
+
 # MetaVoIP
 
 ### Global VoIP & Telecommunications Infrastructure
